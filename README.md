@@ -21,4 +21,4 @@ git add .			add all changes made to all file in local branch\
 git commit -m <"message">	commit changes along with a message describing edits made\
 
 git push --set-upstream <what branch we're pushing to> <what branch we're pushing>\
-"git push --set-upstream origin test-branch" \
+"git push --set-upstream origin test-branch"
