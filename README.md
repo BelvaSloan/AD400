@@ -1,2 +1,3 @@
 # AD400
-Into to Git
+Intro to Git
+This is my repo for my class' introduction to git.
